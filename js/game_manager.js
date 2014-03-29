@@ -14,7 +14,7 @@
 }
 
 // Merge rule
-GameManager.prototype.tilesRule = ["毛芷晴", "洪丝丝", "程若晖", "邵芳芳", "张美真", "李青云", "江玉麟", "樊梨花", "程天蓝", "高希敏", "华清瑜", "燕红叶", "武俏君"];
+GameManager.prototype.tilesRule = ["毛芷晴", "洪丝丝", "程若晖", "邵芳芳", "张美真", "李青云", "江玉麟", "程天蓝", "高希敏", "华清瑜", "燕红叶", "武俏君", "华忆莲"];
 
 // Restart the game
 GameManager.prototype.restart = function () {
